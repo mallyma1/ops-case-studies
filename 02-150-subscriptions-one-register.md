@@ -24,7 +24,7 @@ Each team ran on its own set of tools, and across them the company was paying fo
 
 - 150+ subscriptions, around £3M, in one register for cost tracking and vendor management.
 - Asana as the backbone, connected to GitHub Projects, Notion and Airtable.
-- As the first UK operations hire, set up the London office (procurement, vendor selection, security and documentation), then supported the Lisbon office opening.
+- As the first UK operations hire, set up the London office (procurement, vendor selection, security and documentation), then supported a second European office opening.
 - Savings: not measured.
 
 ## Also in this role
