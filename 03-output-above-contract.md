@@ -18,7 +18,7 @@ Before I joined, clients had complained about volume. Each client contract sets 
 - Put a weekly delivery meeting and 1:1s with the three leads in place.
 - Ran the hiring pipeline across 25+ countries and wrote the screening assessment researchers are hired against.
 - Moved parts of the network from hourly to per-unit pricing, with cost-versus-output tracking so the margin is visible.
-- Built the payout pipeline and the operations bot the network runs on, with the engineering team.
+- Built the payout pipeline and the helper chat bot the network runs on, with the engineering team.
 
 ## Result
 

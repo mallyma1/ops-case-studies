@@ -31,6 +31,8 @@ BANNED = [
     'chainalysis', 'elliptic', 'crystal blockchain', 'merkle science', 'trm labs', 'podproza',
     # internal codenames and places that stay off the public record
     r'\brex\b', 'revion', 'buntogole', 'twende', 'opsuma', 'lisbon',
+    # internal name for the helper chat bot
+    'ops bot', 'operations bot', 'ops-bot',
     # figures that were corrected and must not come back
     r'£3\s?m', 'around £3', '800 misroutes', '40 in production',
 ]
