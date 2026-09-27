@@ -33,6 +33,8 @@ Every case has the same shape, so they can be compared side by side.
 
 At my current employer I build most of the tooling my part of the business runs on, and I build it with AI coding agents. I build, deploy and maintain the vertical's production web applications myself, and I set up the workflow the team develops on: Git branching, code review through pull requests, and CI/CD. I run Claude Code as an orchestrator with specialist subagents, about 20 in the employer's repo. Agents that are safe to run in the background are kept apart from the ones that must run in the main session, and a fact-checker agent is the final gate. These are Claude Code agent definitions, not a custom agent runtime.
 
+It is easy to prompt your way to something that works without knowing what is under the hood, so I work two ways and say so. For production tooling, agents write and I review, and it ships through the pull-request workflow and CI/CD I set up. When the point is to own the code, I type and the AI explains, reviews and fixes; every session ends with a five-minute teach-back in my words that becomes the decision record; and once something works I break it on purpose and find the fault without help. No computer science degree and no engineering certifications: I learn on the job, on systems that are live and have to work.
+
 ## Checks
 
 Every push runs [`scripts/check.py`](scripts/check.py) in GitHub Actions. It fails the build on an em or en dash, an invisible character, a phrase from the banned list (client names, internal codenames, figures that were later corrected), a link or heading fragment that does not resolve, or a case file missing one of the seven sections above. It reports; it never rewrites.
