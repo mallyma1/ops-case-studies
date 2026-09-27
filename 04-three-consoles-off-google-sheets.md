@@ -38,7 +38,7 @@ The views below are rebuilt with generated sample data, so the layouts can be se
 ## Also in this role
 
 - Client delivery for the vertical, told with the numbers in [case 03](03-output-above-contract.md).
-- The payout pipeline and the operations bot the network runs on, built with the engineering team.
+- The payout pipeline and the helper chat bot the network runs on, built with the engineering team.
 - The Git, code review and CI/CD workflow the team develops on, which I set up.
 
 ## Evidence and limits
